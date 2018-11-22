@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+    font-size: 200%;
+    color: purple;
+    font-family: sans-serif;
+    margin: 1em auto;
+    border: 1px solid black;
+    padding: 1em;
+}
+a:link{
+    color: purple;
+    text-decoration: none;
+}
+a:visited{
+    color: purple;
+    
+}
