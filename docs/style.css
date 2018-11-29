@@ -1,5 +1,5 @@
 body{
-    background: #6D6867 url('src/spinning-gif.gif') 2em 2em fixed;
+    background: #6D6867 url('/src/spinning-gif.gif') 2em 2em fixed;
     font-size: 200%;
     color: purple;
     font-family: sans-serif;
