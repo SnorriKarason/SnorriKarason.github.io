@@ -15,3 +15,7 @@ a:visited{
     color: purple;
     
 }
+
+.col-3{
+    translate(10,10)
+}
