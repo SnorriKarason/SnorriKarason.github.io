@@ -16,5 +16,5 @@ a:visited{
     
 }
 .col-3{
-    transform: translate(-7em) scale(0.8);
+    transform: scale(0.8);
 }
