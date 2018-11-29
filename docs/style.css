@@ -1,5 +1,5 @@
 body{
-    background: #6D6867 url('src/spinning-gif.gif') 2em 2em fixed;
+    background: #6D6867 url('spinning-gif.gif') 2em 2em fixed;
     font-size: 200%;
     color: purple;
     font-family: sans-serif;
@@ -15,7 +15,6 @@ a:visited{
     color: purple;
     
 }
-
 .col-3{
-    translate(10,10)
+    transform: translate(-7em) scale(0.8);
 }
