@@ -1,14 +1,14 @@
 body{
     background: #6D6867 url('/src/spinning-gif.gif') 2em 2em fixed;
     font-size: 200%;
-    color: purple;
+    color: #a301ff;
     font-family: sans-serif;
     margin: 1em auto;
     border: 1px solid black;
     padding: 1em;
 }
 a:link{
-    color: purple;
+    color: #a301ff;
     text-decoration: none;
 }
 
